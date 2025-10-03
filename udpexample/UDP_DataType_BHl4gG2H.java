@@ -11,7 +11,7 @@ import java.util.*;
  *
  * @author Lenovo
  */
-public class UDPBHl4gG2H {
+public class UDP_DataType_BHl4gG2H {
     public static void main(String[] args) throws Exception {
         DatagramSocket client = new DatagramSocket();
         InetAddress sA = InetAddress.getByName("203.162.10.109");
