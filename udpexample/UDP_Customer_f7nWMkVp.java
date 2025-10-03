@@ -11,7 +11,7 @@ import UDP.Customer;
  *
  * @author Lenovo
  */
-public class UPD_Customer_f7nWMkVp {
+public class UDP_Customer_f7nWMkVp {
     public static void main(String[] args) throws Exception {
         DatagramSocket client = new DatagramSocket();
         InetAddress sA = InetAddress.getByName("203.162.10.109");
